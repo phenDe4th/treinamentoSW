@@ -9,6 +9,6 @@ getElementById("resultado");
 
     resultado.innerHTML =
     "<h2> " + dados.nome + "</h2>" +
-    "<img src=' " + dados.imagem + "width='200'><br>" +
+    "<img src='" + dados.imagem + "'width='200'><br>" +
     "<p>Arma: " + dados.arma + "</p>";
 }
