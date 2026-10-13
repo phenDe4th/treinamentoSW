@@ -7,7 +7,7 @@ const starwars = {
         //1.
         especie: "Humano",
         planeta: "Tatooine",
-        afliacao: "Ordem Jedi",
+        afiliacao: "Ordem Jedi",
         mestre: "Obi-Wan Kenobi",
         aprendiz: "Ahsoka Tano",
         ocupacao: "Cavaleiro Jedi e general durantes as Guerras Clônicas",
@@ -32,5 +32,39 @@ const starwars = {
         seVoceFosse: "Você seria um poderoso Cavaleiro Jedi, treinado para proteger a galáxia e combater os inimigos da República.",
         suaMissao: "Defender os inocentes, enfrentar os Separatistas e lutar nas Guerras Clônicas.",
         seuCaminho: "A Ordem Jedi e o conflito entre: o dever, a lealdade e seus sentimentos pesssoais."
+    },
+    mestreYoda: {
+        nome:"Mestre Yoda",
+        imagem:"imagens/mestreYoda.jpg",
+        titulo:"Grande Mestre da Ordem Jedi",
+
+        //1.
+        especie:"Tridactyls (adotado por fãs). Mas Mestre Yoda nunca teve um cânone ofical de sua especie.",
+        planeta:"Origem Intergaláctica / Regiões Desconhecidas (teoria). Mas na realidade, é um mistério (porque revelar de onde Yoda veio, tiraria grande parte da magia, do folclore e do charme que tornam o personagem tão único na cultura pop).",
+        afiliacao:"Ordem Jedi",
+        mestre:"N'Kata Del Gormo",
+        aprendiz:"Vários. Os principais conhecidos são: Conde Dookan (seu último Padawan oficial), depois instruiu praticamente todas as gerações de younglings por 800 anos, e finalmente Luke Skywalker.",
+        ocupacao:"Líder e Educador da Ordem Jedi",
+
+        //2.
+        habilidades:"",
+        estiloCombate:"",
+        personalidade:"",
+        poderes:"",
+
+        //3.
+        arma:"Sabre de luz verde",
+        armaImagem:"",
+        armaDescricao:"",
+        nave:"",
+        equipamentoEspecial:"",
+
+        //4.
+        historia:"",
+
+        //5.
+        seVoceFosse:"",
+        suaMissao:"",
+        seuCaminho:""
     }
 };

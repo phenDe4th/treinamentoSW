@@ -15,7 +15,7 @@ function mostrarSW() {
                 <li>Nome completo: ${dados.nome}</li>
                 <li>Espécie: ${dados.especie}</li>
                 <li>Planeta natal: ${dados.planeta}</li>
-                <li>Afliação: ${dados.afliacao}</li>
+                <li>Afiliação: ${dados.afiliacao}</li>
                 <li>Mestre: ${dados.mestre}</li>
                 <li>Aprendiz: ${dados.aprendiz}</li>
                 <li>Ocupação: ${dados.ocupacao}</li>
